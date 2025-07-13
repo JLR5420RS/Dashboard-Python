@@ -6,4 +6,3 @@ geopandas
 streamlit
 nltk
 wordcloud
-json

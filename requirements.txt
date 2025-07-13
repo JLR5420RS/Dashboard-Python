@@ -6,3 +6,4 @@ geopandas
 streamlit
 nltk
 wordcloud
+scipy
